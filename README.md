@@ -64,6 +64,7 @@ plt.show()
 ## Output:
 ![Screenshot 2024-12-20 211252](https://github.com/user-attachments/assets/b001ef99-1d06-4246-b7ae-1ef7355730da)
 ![Screenshot 2024-12-20 211322](https://github.com/user-attachments/assets/d346a3a3-e19d-4295-b1c7-10b4c791ed1c)
+![image](https://github.com/user-attachments/assets/50ef4c36-abc4-46db-9d16-530ddede7677)
 ![Screenshot 2024-12-20 211336](https://github.com/user-attachments/assets/c11188fc-8bcd-402b-afe0-02903e2383da)
 
 
